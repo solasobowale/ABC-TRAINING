@@ -1,0 +1,66 @@
+<style>
+#header{ display:flex;
+}
+#logo-title{display: flex;
+justify-content:space-around;
+  font-family: verdana;
+}
+
+#nav-bar{display: flex;
+justify-content:space-around;
+padding: 10px;
+font-size: 20px}
+
+#intro{ text-align:justify;
+font-size: 17px;
+font-weight: normal;
+}
+#intro2{
+  font-size: 17px;
+  text-align: justify;
+     }
+#video-sect{border: 5px solid ;
+  border-radius: 10px;
+  padding: 10px;
+  width: 560px;
+   height: 350px;
+}
+#intro3{text-align:justify;
+font-size: 17px;
+font-weight: normal}
+#beginners{text-align:left;
+  font-family:sans-serif;
+  border: 2px solid ;
+   width: 1300px;
+   height: 500px;
+}
+#intermediate{
+  font-family:sans-serif;
+  text-align: left;
+  border: 2px solid ;
+   width: 1300px;
+   height: 500px}
+#advanced{text-align:left;
+ font-family:sans-serif;
+  border: 2px solid ;
+   width: 1300px;
+   height: 500px}
+#course-all{display: flex;
+justify-content:space-around;}
+#about-us{
+  font-family: verdana;
+  font-style: italic;
+  font-weight: 20px;
+}
+
+body {background-color:#e9e1e4;
+}
+@media (max-width: 480px) { 
+    body {
+      font-size: 5px;
+  
+    }
+  }
+
+
+</style>
